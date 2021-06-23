@@ -1,0 +1,15 @@
+{
+  "name": "taxitop-database",
+  "version": "1.0.0",
+  "description": "taxitop databases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "taxitop",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongoose": "^5.12.14"
+  }
+}
