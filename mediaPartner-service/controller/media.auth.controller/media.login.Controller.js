@@ -1,3 +1,3 @@
 exports.mediaPartnerLogin = async (req, res) => {
-    console.log("hii");
+    console.log("working");
 };
